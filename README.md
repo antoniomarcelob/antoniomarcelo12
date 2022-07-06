@@ -1,5 +1,5 @@
 - 👋 Hi. Name is Antonio Marcelo, from Pernambuco, Brazil 🇧🇷;
-- Interested most in front-end developing; Currently learning Javascript and Angular, alongside css. 
+- Interested most in front-end developing; Currently learning ReactJs.
 - 🗨️ Reach me on antoniomarcelob12@gmail.com. 
 
 <!---
