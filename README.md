@@ -1,4 +1,4 @@
-- 👋 Hi. Name is Antonio Marcelo, Brazilian;
+- 👋 Hi. My name is Antonio Marcelo, Brazilian;
 - Interested most in front-end developing; Currently learning ReactJs.
 - 🗨️ Reach me on antoniomarcelob12@gmail.com. 
 
